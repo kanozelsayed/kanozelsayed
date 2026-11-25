@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Kenzy+Elsayed;Full-Stack+Developer;I+build+clean+and+scalable+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Kenzy+Elsayed;Frontend+Developer;I+build+clean+and+responsive+interfaces" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=kanozelsayed&label=Profile+Views&color=2F81F7&style=flat" />
@@ -13,11 +13,11 @@
 
 ## 👩‍💻 About Me
 
-- 💼 Full-Stack Developer بشتغل على web apps و backend APIs
-- 🔭 Currently working on **Acuhire** (HR & recruitment platform)
-- 🌱 Currently learning **System Design, Docker, Cloud Deployment**
-- 💬 Ask me about **React, TypeScript, FastAPI, REST APIs**
-- ⚡ Fun fact: [حاجة طريفة عنك]
+- 💼 Frontend Developer who loves building clean, fast, and user-friendly interfaces
+- 🎓 **Acuhire** is my graduation project
+- 🧩 Basic experience with backend development and working with APIs
+- 🌱 Currently learning **Next.js, Advanced TypeScript, Testing**
+- 💬 Ask me about **React, TypeScript, Tailwind CSS**
 - 📍 Based in Egypt 🇪🇬
 
 ---
@@ -27,19 +27,19 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" />
 </p>
 
 **Frameworks & Libraries**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass&theme=dark" />
 </p>
 
-**Databases & Tools**
+**Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,linux,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm&theme=dark" />
 </p>
 
 ---
@@ -48,13 +48,12 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Acuhire**](https://github.com/kanozelsayed/acuhire) | منصة توظيف وإدارة موارد بشرية | `TypeScript` `React` |
-| [**Acuhire Backend**](https://github.com/kanozelsayed/acuhirebackend) | الـ Backend والـ APIs الخاصة بمنصة Acuhire | `Python` `FastAPI` |
-| [**HR-System**](https://github.com/kanozelsayed/HR-System) | نظام متكامل لإدارة الموظفين والموارد البشرية | `TypeScript` `React` |
-| [**Finance Dashboard**](https://github.com/kanozelsayed/finance-dashboard) | داشبورد لتتبع المصروفات والتحليلات المالية | `JavaScript` |
-| [**Ramadan Planner**](https://github.com/kanozelsayed/ramadan-planner) | تطبيق لتنظيم العبادات والمهام في رمضان | `JavaScript` |
-| [**Fabrica Studio**](https://github.com/kanozelsayed/fabrica-studio) | موقع لاستوديو تصميم | `JavaScript` |
-| [**Personal Portfolio**](https://github.com/kanozelsayed/Personal-Portfolio) | موقعي الشخصي | `HTML` `CSS` |
+| [**Acuhire**](https://github.com/kanozelsayed/acuhire) | Recruitment and HR management platform (graduation project) | `TypeScript` `React` |
+| [**HR-System**](https://github.com/kanozelsayed/HR-System) | Employee and human resources management system | `TypeScript` `React` |
+| [**Finance Dashboard**](https://github.com/kanozelsayed/finance-dashboard) | Dashboard for tracking expenses and financial analytics | `JavaScript` |
+| [**Ramadan Planner**](https://github.com/kanozelsayed/ramadan-planner) | App for organizing worship and daily tasks during Ramadan | `JavaScript` |
+| [**Fabrica Studio**](https://github.com/kanozelsayed/fabrica-studio) | Website for a design studio | `JavaScript` |
+| [**Personal Portfolio**](https://github.com/kanozelsayed/Personal-Portfolio) | My personal portfolio website | `HTML` `CSS` |
 
 <p align="center">
   <a href="https://github.com/kanozelsayed/acuhire">
@@ -88,7 +87,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:knzelsayed1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
