@@ -1,16 +1,46 @@
-## Hi there 👋
+Skip to content
+New repository
+Create a new repository
+Repositories contain a project's files and version history. Have a project elsewhere? Import a repository.
+Required fields are marked with an asterisk (*).
+1
+General
+Repository owner and name
+Owner(required)
+*
+/
+Repository name
+*
+kanozelsayed
+kanozelsayed is available.
+Special profile readme repository
+kanozelsayed/kanozelsayed is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
+Great repository names are short and memorable. How about 
+?
+Description
+0 / 350 characters
+2
+Configuration
+Choose visibility *
+Choose who can see and commit to this repository
 
-<!--
-**kanozelsayed/kanozelsayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Add README
+READMEs can be used as longer descriptions. About READMEs
+On
+Add .gitignore
+.gitignore tells git which files not to track. About ignoring files
+Add license
+Licenses explain how others can use your code. About licenses
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
