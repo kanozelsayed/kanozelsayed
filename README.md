@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Kenzy+Elsayed;Frontend+Developer;I+build+clean+and+responsive+interfaces" alt="Typing SVG" />
+# Hi 👋, I'm Kenzy Elsayed
+### Frontend Developer | I build clean and responsive interfaces
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=kanozelsayed&label=Profile+Views&color=2F81F7&style=flat" />
   <img src="https://img.shields.io/github/followers/kanozelsayed?label=Followers&style=flat&logo=github" />
 </p>
 
